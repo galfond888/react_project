@@ -4,5 +4,5 @@ import Memo from './App'
 import './index.css';
 
 
-ReactDOM.render(<Memo name="Gal The best programmer" />,document.getElementById('root'))
+ReactDOM.render(<Memo name="React Expert" />,document.getElementById('root'))
 
